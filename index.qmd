@@ -1,0 +1,23 @@
+---
+title: "A pitch accent for contrastive emphasis in Danish?"
+format:
+  html:
+    theme: cosmo
+bibliography: references.bib
+csl: css/journal-of-linguistics.csl
+---
+
+Data and code for FPCA available [here](https://github.com/rpuggaardrode/tai){target='_blank'}
+
+## Software citations
+
+* `contour_clustering_gui`: @kaland2023
+* `fdapace` version 0.6.0: @fdapace
+* `R` version 4.5.0: @r
+* `SpeechRecorder`: @speechrecorder
+* `wrassp` version 1.0.5: @emusdms
+
+---
+nocite: |
+  @gronnum2022intonation, @dyhr1995, @tondering2003, @gussenhoven2004, @thorsen1980
+---
