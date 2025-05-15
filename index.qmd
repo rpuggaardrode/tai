@@ -7,6 +7,8 @@ bibliography: references.bib
 csl: css/journal-of-linguistics.csl
 ---
 
+Poster available [here](https://rpuggaardrode.github.io/tai/index.pdf){target='_blank'}
+
 Data and code for FPCA available [here](https://github.com/rpuggaardrode/tai){target='_blank'}
 
 ## Software citations
